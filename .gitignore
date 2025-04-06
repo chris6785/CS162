@@ -1,0 +1,29 @@
+# IGNORE THESE FILES IN ROOT DIRECTORY
+chris6785_CS162_Repo.png
+Directions.txt
+pythonarrays.py
+Will.py
+
+
+# REDUNDANT RULES BELOW, BUT HARMLESS. DO NOT DELETE!
+
+# -------------------------
+# Ignore Python cache and bytecode
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore IDE/editor configs
+.idea/
+.vscode/
+
+# Ignore all venvs
+.venv/
+venv/
+env/
+ENV/
+
+# Ignore system junk files
+.DS_Store
+Thumbs.db

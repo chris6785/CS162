@@ -1,5 +1,4 @@
-from Will import *
-#from Chris_Chausse import *
+from Chris_Chausse import *
 #Function 1
 # Returns Area of Rectangle
 
